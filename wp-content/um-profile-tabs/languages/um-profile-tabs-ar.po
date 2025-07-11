@@ -1,0 +1,189 @@
+# Copyright (C) 2021 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - Profile tabs plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Profile tabs 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-profile-tabs\n"
+"Last-Translator: نبيل مقبل\n"
+"Language-Team: العربية\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-07-20T22:50:40+03:00\n"
+"PO-Revision-Date: 2021-10-02 04:45+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: um-profile-tabs\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - Profile tabs"
+msgstr "Ultimate Member - Profile tabs تبويبات الملف الشخصي"
+
+#. Plugin URI of the plugin
+msgid "http://ultimatemember.com/extensions/profile-tabs"
+msgstr "http://ultimatemember.com/extensions/profile-tabs"
+
+#. Description of the plugin
+msgid "Adds custom tabs to user profile."
+msgstr "تقوم بإضافة علامات تبويب مخصصة إلى الملف الشخصي للمستخدم."
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#: includes/admin/class-admin.php:44
+msgid "Profile tabs License Key"
+msgstr "مفتاح ترخيص تبويبات الملف الشخصي Profile Tabs"
+
+#: includes/admin/class-admin.php:75
+msgid "Profile Tabs Order"
+msgstr "ترتيب تبويبات الملف الشخصي"
+
+#: includes/admin/class-admin.php:79
+msgid ""
+"Pay an attention that default tab ignore the order and will be displayed the "
+"first"
+msgstr ""
+"انتبه إلى أن علامة التبويب الافتراضية تتجاهل الترتيب وسيتم عرضها في البداية"
+
+#: includes/admin/class-admin.php:90 includes/core/class-common.php:30
+#: includes/core/class-common.php:31 includes/core/class-common.php:48
+msgid "Profile Tabs"
+msgstr "تبويبات الملف الشخصي (Profile Tabs)"
+
+#: includes/admin/class-admin.php:175
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+#: includes/admin/class-admin.php:184
+msgid "Customize this tab"
+msgstr "تخصيص علامة التبويب"
+
+#: includes/admin/class-admin.php:193
+msgid "Pre-defined content"
+msgstr "محتوى محدد مسبقاً (Pre-defined content)"
+
+#: includes/admin/templates/profile-tab/access.php:13
+#: includes/admin/templates/profile-tab/icon.php:13
+#: includes/admin/templates/profile-tab/um-form.php:13
+msgid "These settings are obtained from a Profile tab in the default language"
+msgstr "يتم اكتساب هذه الإعدادات من علامة تبويب ملف شخصي ما باللغة الافتراضية"
+
+#: includes/admin/templates/profile-tab/access.php:46
+msgid "Show on these roles profiles"
+msgstr "إظهارها في رُتب الملفات الشخصية:"
+
+#: includes/admin/templates/profile-tab/access.php:47
+msgid ""
+"You could select the roles which have the current profile tab at their form. "
+"If empty, profile tab is visible for all roles at their forms."
+msgstr ""
+"يمكنك تحديد الرتب (Roles) التي تحتوي على علامة تبويب الملف الشخصي الحالية "
+"ضمن نماذجهم. إذا كانت فارغة، فستكون علامة تبويب الملف الشخصي مرئية لجميع "
+"الأدوار ضمن نماذجهم."
+
+#: includes/admin/templates/profile-tab/access.php:55
+msgid "Show on these profiles forms"
+msgstr "إظهارها في نماذج الملفات الشخصية:"
+
+#: includes/admin/templates/profile-tab/access.php:56
+msgid ""
+"You could select the forms where the current profile tab is visible. If "
+"empty, profile tab is visible for all forms."
+msgstr ""
+"يمكنك تحديد النماذج (Forms) التي تظهر فيها علامة تبويب الملف الشخصي الحالية. "
+"إذا كانت فارغة، فستظهر علامة التبويب لجميع النماذج."
+
+#: includes/admin/templates/profile-tab/access.php:63
+msgid "More profile menu settings you could set <a href=\"%s\">here</a>"
+msgstr ""
+"يمكنك تعيين المزيد من إعدادات قائمة الملف الشخصي <a href=\"%s\">هنا</a>"
+
+#: includes/admin/templates/profile-tab/icon.php:24
+msgid "Icon"
+msgstr "أيقونة"
+
+#: includes/admin/templates/profile-tab/um-form.php:30
+msgid "No form"
+msgstr "لا نموذج (No Form)"
+
+#: includes/admin/templates/profile-tab/um-form.php:52
+msgid "Custom Profile Form"
+msgstr "نموذج الملف الشخصي المخصص"
+
+#: includes/core/class-common.php:28
+msgctxt "Post Type General Name"
+msgid "Profile Tabs"
+msgstr "تبويبات الملف الشخصي Profile Tabs"
+
+#: includes/core/class-common.php:29
+msgctxt "Post Type Singular Name"
+msgid "Profile tab"
+msgstr "علامة تبويب الملف الشخصي"
+
+#: includes/core/class-common.php:32
+msgid "Item Archives"
+msgstr "أرشيفات العنصر"
+
+#: includes/core/class-common.php:33
+msgid "Item Attributes"
+msgstr "خصائص العنصر"
+
+#: includes/core/class-common.php:34
+msgid "Parent Item:"
+msgstr "العنصر الرئيسي:"
+
+#: includes/core/class-common.php:35
+msgid "All Items"
+msgstr "كل العناصر"
+
+#: includes/core/class-common.php:36
+msgid "Add New Item"
+msgstr "إضافة عنصر جديد"
+
+#: includes/core/class-common.php:37
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#: includes/core/class-common.php:38
+msgid "New Item"
+msgstr "عنصر جديد"
+
+#: includes/core/class-common.php:39
+msgid "Edit Item"
+msgstr "تحرير العنصر"
+
+#: includes/core/class-common.php:40
+msgid "Update Item"
+msgstr "تحديث العنصر"
+
+#: includes/core/class-common.php:41
+msgid "View Item"
+msgstr "عرض العنصر"
+
+#: includes/core/class-common.php:42
+msgid "View Items"
+msgstr "عرض العناصر"
+
+#: includes/core/class-common.php:43
+msgid "Search Item"
+msgstr "بحث عن عنصر"
+
+#: includes/core/class-common.php:44
+msgid "Not found"
+msgstr "لا يوجد"
+
+#: includes/core/class-profile.php:355
+msgid "Update"
+msgstr "تحديث"
+
+#: includes/core/class-profile.php:368
+msgid "Edit"
+msgstr "تحرير"

@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Friends\n"
+"POT-Creation-Date: 2020-03-19 16:30+0000\n"
+"PO-Revision-Date: 2020-03-19 16:33+0000\n"
+"Language-Team: English (Canada)\n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: um-friends.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: um-friends.php:43 um-friends.php:59
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#: templates/account-notifications.php:23
+msgid "I have got a new friend"
+msgstr ""
+
+#: templates/account-notifications.php:37
+msgid "I have got a new friend request"
+msgstr ""
+
+#: templates/friends-bar.php:21
+#: includes/core/class-friends-member-directory.php:128
+msgid "friends"
+msgstr ""
+
+#: templates/friends-mini.php:53 templates/friends.php:31
+#: includes/core/class-friends-shortcode.php:157
+msgid "You do not have any friends yet."
+msgstr ""
+
+#: templates/friends-mini.php:53 templates/friends.php:33
+#: includes/core/class-friends-shortcode.php:157
+msgid "This user does not have any friends yet."
+msgstr ""
+
+#: templates/friends.php:27 includes/core/class-friends-shortcode.php:207
+msgid "You do not have pending friend requests yet."
+msgstr ""
+
+#: templates/friends.php:29 includes/core/class-friends-shortcode.php:249
+msgid "You have not sent any friend requests yet."
+msgstr ""
+
+#: templates/friends.php:68
+msgid "Edit profile"
+msgstr ""
+
+#: includes/core/class-friends-account.php:65
+msgid "Notifications"
+msgstr ""
+
+#: includes/core/class-friends-account.php:66
+msgid "Update Notifications"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:71
+#: includes/core/class-friends-main-api.php:111
+msgid "Add Friend"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:87
+msgid "Respond to Friend Request"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:90
+#: includes/core/class-friends-main-api.php:102
+msgid "Confirm"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:91
+#: includes/core/class-friends-main-api.php:103
+msgid "Delete Request"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:92
+msgid "Cancel"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:107
+msgid "Cancel Friend Request"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:107
+msgid "Friend Request Sent"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:114
+#: includes/core/um-friends-widget.php:71
+#: includes/core/actions/um-friends-admin.php:25
+#: includes/core/filters/um-friends-profile.php:29
+#: includes/core/filters/um-friends-profile.php:78
+#: includes/core/filters/um-friends-settings.php:21
+msgid "Friends"
+msgstr ""
+
+#: includes/core/class-friends-main-api.php:114
+msgid "Unfriend"
+msgstr ""
+
+#: includes/core/class-friends-member-directory.php:56
+msgid "Hide friends stats"
+msgstr ""
+
+#: includes/core/class-friends-member-directory.php:62
+msgid "Hide friend button"
+msgstr ""
+
+#: includes/core/class-friends-member-directory.php:79
+msgid "Most friends"
+msgstr ""
+
+#: includes/core/class-friends-member-directory.php:80
+msgid "Least friends"
+msgstr ""
+
+#: includes/core/class-friends-member-directory.php:149
+#: includes/core/class-friends-shortcode.php:111
+#: includes/core/filters/um-friends-admin.php:30
+#: includes/core/filters/um-friends-profile.php:13
+#: includes/core/filters/um-friends-profile.php:145
+#: includes/core/filters/um-friends-profile.php:168
+msgid "Friends only"
+msgstr ""
+
+#: includes/core/class-friends-setup.php:48
+msgid "<strong>{member}</strong> has sent you a friendship request"
+msgstr ""
+
+#: includes/core/class-friends-setup.php:49
+msgid "<strong>{member}</strong> has accepted your friendship request"
+msgstr ""
+
+#: includes/core/class-friends-shortcode.php:163
+msgid "You have reached a limit of friends."
+msgstr ""
+
+#: includes/core/um-friends-online-widget.php:21
+msgid "Ultimate Member - Friends Online"
+msgstr ""
+
+#: includes/core/um-friends-online-widget.php:24
+msgid "Shows user online friends in a widget."
+msgstr ""
+
+#: includes/core/um-friends-online-widget.php:71
+msgid "Friends Online"
+msgstr ""
+
+#: includes/core/um-friends-online-widget.php:84
+#: includes/core/um-friends-widget.php:84
+msgid "Title:"
+msgstr ""
+
+#: includes/core/um-friends-online-widget.php:89
+#: includes/core/um-friends-widget.php:89
+msgid "Maximum number of users in first view:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/core/um-friends-widget.php:21
+msgid "Ultimate Member - Friends"
+msgstr ""
+
+#: includes/core/um-friends-widget.php:24
+msgid "Shows user friends in a widget."
+msgstr ""
+
+#: includes/core/filters/um-friends-admin.php:33
+msgid "Friends & Followers only"
+msgstr ""
+
+#: includes/core/filters/um-friends-profile.php:106
+msgid "My Friends"
+msgstr ""
+
+#: includes/core/filters/um-friends-profile.php:106
+#, php-format
+msgid "%s's friends"
+msgstr ""
+
+#: includes/core/filters/um-friends-profile.php:126
+msgid "Friend Requests"
+msgstr ""
+
+#: includes/core/filters/um-friends-profile.php:127
+msgid "Friend Requests Sent"
+msgstr ""
+
+#: includes/core/filters/um-friends-profile.php:148
+msgid "You must be a friend of this user to view their profile"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:13
+msgid "Friends License Key"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:26
+msgid "Show friends stats in member directory"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:31
+msgid "Show friend button in member directory"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:52
+msgid ""
+"Enable integration with friends to convert user names to user profile links "
+"automatically (mention users)?"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:57
+msgid "Show only friends activity in the social wall"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:74
+msgid "New Friend Request Notification"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:81
+msgid "Send a notification to user when they receive a new friend request"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:88
+msgid "New Friend Notification"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:95
+msgid "Send a notification to user when a friend request get approved"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:114
+msgid "User get a new friend request"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:115
+msgid "When someone requests friendship"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:119
+msgid "User get a new friend"
+msgstr ""
+
+#: includes/core/filters/um-friends-settings.php:120
+msgid "When someone accepts friendship"
+msgstr ""
+
+#: includes/admin/templates/role/friends.php:14
+msgid "Can friend others?"
+msgstr ""
+
+#: includes/admin/templates/role/friends.php:15
+msgid "Can this role friend other members or not."
+msgstr ""
+
+#: includes/admin/templates/role/friends.php:22
+msgid "Can friend these user roles only"
+msgstr ""
+
+#: includes/admin/templates/role/friends.php:30
+msgid "Friends limit"
+msgstr ""
+
+#: includes/admin/templates/role/friends.php:31
+msgid "The maximum number of friends. Unlimited - 0."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add a friendship system for your community users easily."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://ultimatemember.com/extensions/friends"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""

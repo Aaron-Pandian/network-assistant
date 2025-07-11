@@ -1,0 +1,30 @@
+.um-member-map-shortcode {
+  margin: 0 0 10px 0;
+  width: 100%; }
+  .um-member-map-shortcode.um-user-location-hidden-map {
+    display: none; }
+  .um-member-map-shortcode.um-map-inited img[src$="um_avatar_marker=1"] {
+    border: 2px solid #fff !important;
+    border-radius: 100%;
+    -moz-border-radius: 100%;
+    box-shadow: 0 2px 0 0 rgba(50, 50, 93, 0.1), 0 1px 0 0 rgba(0, 0, 0, 0.07) !important;
+    -webkit-box-shadow: 0 2px 0 0 rgba(50, 50, 93, 0.1), 0 1px 0 0 rgba(0, 0, 0, 0.07) !important; }
+
+.um_user_location_gmap_infowindow {
+  text-align: center; }
+  .um_user_location_gmap_infowindow .um_user_location_infowindow_avatar {
+    display: inline-block;
+    text-align: center;
+    margin: 0 0 5px 0; }
+    .um_user_location_gmap_infowindow .um_user_location_infowindow_avatar img {
+      margin: 0 auto;
+      border-radius: 100%;
+      display: block;
+      height: calc(3.75 * 1rem);
+      min-height: inherit;
+      width: calc(3.75 * 1rem); }
+  .um_user_location_gmap_infowindow .um_user_location_infowindow_title {
+    margin: 0 0 5px 0;
+    font-weight: bold; }
+  .um_user_location_gmap_infowindow .um_user_location_infowindow_content .um-member-infowindow-line {
+    margin: 0 0 5px 0; }

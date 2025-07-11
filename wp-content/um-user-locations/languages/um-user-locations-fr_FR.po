@@ -1,0 +1,622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - User Locations\n"
+"POT-Creation-Date: 2023-03-23 15:09-0400\n"
+"PO-Revision-Date: 2023-03-26 10:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-user-locations.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: includes/core/class-admin.php:143
+#, php-format
+msgid ""
+"%s is active on your site. However you need to fill in your <strong>Google "
+"Maps API key</strong> before the extension can be used."
+msgstr ""
+"%s est actif sur votre site. Cependant, vous devez remplir votre <strong>clé "
+"API Google Maps</strong> avant de pouvoir utiliser l’extension."
+
+#: includes/core/class-fields.php:190
+#, php-format
+msgid "%s is required"
+msgstr "%s est requis"
+
+#: includes/core/um-user-locations-init.php:248
+#, php-format
+msgid "%s km"
+msgstr "%s km"
+
+#: includes/core/um-user-locations-init.php:250
+#, php-format
+msgid "%s miles"
+msgstr "%s miles"
+
+#: includes/core/class-fields.php:250 includes/core/class-fields.php:336
+msgid "--"
+msgstr "--"
+
+#: includes/admin/templates/directory/user-locations.php:129
+msgid "Add New Field"
+msgstr "Ajouter un nouveau champ"
+
+#: includes/core/um-user-locations-init.php:38
+msgid "Afrikaans"
+msgstr "Africain"
+
+#: includes/core/um-user-locations-init.php:39
+msgid "Albanian"
+msgstr "Albanais"
+
+#: includes/core/um-user-locations-init.php:40
+msgid "Amharic"
+msgstr "Amharique"
+
+#: includes/core/um-user-locations-init.php:41
+msgid "Arabic"
+msgstr "Arabe"
+
+#: includes/core/um-user-locations-init.php:42
+msgid "Armenian"
+msgstr "Arménien"
+
+#: includes/admin/templates/directory/user-locations.php:15
+msgid "Avatar marker"
+msgstr "Marqueur d’avatar"
+
+#: includes/core/um-user-locations-init.php:43
+msgid "Azerbaijani"
+msgstr "Azerbaïdjanais"
+
+#: includes/core/um-user-locations-init.php:44
+msgid "Basque"
+msgstr "Basque"
+
+#: includes/core/um-user-locations-init.php:45
+msgid "Belarusian"
+msgstr "Biélorusse"
+
+#: includes/core/um-user-locations-init.php:46
+msgid "Bengali"
+msgstr "Bengali"
+
+#: includes/core/um-user-locations-init.php:47
+msgid "Bosnian"
+msgstr "Bosniaque"
+
+#: includes/core/um-user-locations-init.php:48
+msgid "Burmese"
+msgstr "Birman"
+
+#: includes/core/class-member-directory.php:1208
+#, php-format
+msgid "But we found %s nearest members."
+msgstr "Mais nous avons trouvé %s membres les plus proches."
+
+#: includes/core/class-member-directory.php:1209
+msgid "But we found the nearest member."
+msgstr "Mais nous avons trouvé le membre le plus proche."
+
+#: includes/core/um-user-locations-init.php:49
+msgid "Catalan"
+msgstr "Catalan"
+
+#: includes/core/um-user-locations-init.php:50
+msgid "Chinese"
+msgstr "Chinois"
+
+#: includes/core/um-user-locations-init.php:52
+msgid "Chinese (Hong Kong)"
+msgstr "Chinois (Hong Kong)"
+
+#: includes/core/um-user-locations-init.php:51
+msgid "Chinese (Simplified)"
+msgstr "Chinois (Simplifié)"
+
+#: includes/core/um-user-locations-init.php:53
+msgid "Chinese (Traditional)"
+msgstr "Chinois (Traditionnel)"
+
+#: includes/admin/templates/directory/user-locations.php:126
+msgid "Choose field(s) to display in marker's infowindow"
+msgstr ""
+"Choisir le(s) champ(s) à afficher dans la fenêtre d’information du marqueur"
+
+#: includes/core/class-fields.php:498
+msgid "Choose the location source for getting the distance for it"
+msgstr "Choisissez l'emplacement de départ pour obtenir la distance"
+
+#: includes/admin/templates/directory/user-locations.php:17
+msgid "Classic Google marker"
+msgstr "Marqueur Google classique"
+
+#: includes/core/um-user-locations-init.php:54
+msgid "Croatian"
+msgstr "Croate"
+
+#: includes/core/um-user-locations-init.php:55
+msgid "Czech"
+msgstr "Tchèque"
+
+#: includes/core/um-user-locations-init.php:56
+msgid "Danish"
+msgstr "Danois"
+
+#: includes/core/class-fields.php:463
+msgid "Distance"
+msgstr "Distance"
+
+#: includes/core/um-user-locations-init.php:57
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: includes/admin/templates/directory/user-locations.php:84
+msgid "Enable user location search field"
+msgstr "Activer le champ de recherche selon la géolocalisation"
+
+#: includes/core/um-user-locations-init.php:58
+msgid "English"
+msgstr "Anglais"
+
+#: includes/core/um-user-locations-init.php:59
+msgid "English (Australian)"
+msgstr "Anglais (Australie)"
+
+#: includes/core/um-user-locations-init.php:60
+msgid "English (Great Britain)"
+msgstr "Anglais (Royaume-Uni)"
+
+#: includes/core/um-user-locations-init.php:61
+msgid "Estonian"
+msgstr "Estonien"
+
+#: includes/core/um-user-locations-init.php:62
+msgid "Farsi"
+msgstr "Farsi"
+
+#: includes/core/um-user-locations-init.php:64
+msgid "Filipino"
+msgstr "Philippin"
+
+#: includes/core/um-user-locations-init.php:63
+msgid "Finnish"
+msgstr "Finnois"
+
+#: includes/core/um-user-locations-init.php:65
+msgid "French"
+msgstr "Français"
+
+#: includes/core/um-user-locations-init.php:66
+msgid "French (Canada)"
+msgstr "Français (Canada)"
+
+#: includes/core/um-user-locations-init.php:67
+msgid "Galician"
+msgstr "Galicien"
+
+#: includes/core/class-admin.php:147
+msgid "Generate your API key"
+msgstr "Générer votre clé API"
+
+#: includes/core/um-user-locations-init.php:68
+msgid "Georgian"
+msgstr "Georgien"
+
+#: includes/core/um-user-locations-init.php:69
+msgid "German"
+msgstr "Allemand"
+
+#: includes/core/class-admin.php:80
+msgid "Google Maps Javascript API Key"
+msgstr "Clé API Javascript Google Maps"
+
+#: includes/core/class-admin.php:91
+msgid "Google Maps language"
+msgstr "Langue Google Maps"
+
+#: includes/core/um-user-locations-init.php:70
+msgid "Greek"
+msgstr "Grec"
+
+#: includes/core/um-user-locations-init.php:71
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: includes/core/um-user-locations-init.php:72
+msgid "Hebrew"
+msgstr "Hébreu"
+
+#: includes/core/um-user-locations-init.php:73
+msgid "Hindi"
+msgstr "Hindi"
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#. URI of the plugin
+msgid "http://ultimatemember.com/extensions/user-locations"
+msgstr "http://ultimatemember.com/extensions/user-locations"
+
+#: includes/core/um-user-locations-init.php:74
+msgid "Hungarian"
+msgstr "Hongrois"
+
+#: includes/core/class-admin.php:146
+msgid "I already have the API key"
+msgstr "J’ai déjà la clé API"
+
+#: includes/core/um-user-locations-init.php:75
+msgid "Icelandic"
+msgstr "Islandais"
+
+#: includes/admin/templates/directory/user-locations.php:41
+msgid "If empty, map will be hidden"
+msgstr "Si elle est vide, la carte sera masquée"
+
+#: includes/core/um-user-locations-init.php:76
+msgid "Indonesian"
+msgstr "Indonésien"
+
+#: includes/core/class-profile.php:62
+msgid "Invalid coordinates"
+msgstr "Coordonnées invalides"
+
+#: includes/core/class-profile.php:66
+msgid "Invalid data"
+msgstr "Données non valides"
+
+#: includes/core/um-user-locations-init.php:77
+msgid "Italian"
+msgstr "Italien"
+
+#: includes/core/um-user-locations-init.php:78
+msgid "Japanese"
+msgstr "Japonais"
+
+#: includes/core/um-user-locations-init.php:79
+msgid "Kannada"
+msgstr "Canada"
+
+#: includes/core/um-user-locations-init.php:80
+msgid "Kazakh"
+msgstr "Kazakh"
+
+#: includes/core/um-user-locations-init.php:81
+msgid "Khmer"
+msgstr "Khmer"
+
+#: includes/core/class-fields.php:528
+msgid "Kilometers"
+msgstr "Kilomètres"
+
+#: includes/core/um-user-locations-init.php:82
+msgid "Korean"
+msgstr "Coréen"
+
+#: includes/core/um-user-locations-init.php:83
+msgid "Kyrgyz"
+msgstr "Kyrgyz"
+
+#: includes/core/um-user-locations-init.php:84
+msgid "Lao"
+msgstr "Laos"
+
+#: includes/core/um-user-locations-init.php:85
+msgid "Latvian"
+msgstr "Letton"
+
+#: includes/core/um-user-locations-init.php:86
+msgid "Lithuanian"
+msgstr "Lituanien"
+
+#: includes/core/um-user-locations-init.php:87
+msgid "Macedonian"
+msgstr "Macédoine"
+
+#: includes/admin/templates/directory/user-locations.php:85
+msgid "Make it possible to search members via the location search field"
+msgstr ""
+"Permettre de rechercher des membres via le champ de recherche de localisation"
+
+#: includes/core/um-user-locations-init.php:88
+msgid "Malay"
+msgstr "Malay"
+
+#: includes/core/um-user-locations-init.php:89
+msgid "Malayalam"
+msgstr "Malayâlam"
+
+#: includes/admin/templates/directory/user-locations.php:49
+msgid "Map height"
+msgstr "Hauteur de la carte"
+
+#: includes/core/class-admin.php:99
+msgid "Map height (px)"
+msgstr "Hauteur de la carte (px)"
+
+#: includes/core/um-user-locations-init.php:90
+msgid "Marathi"
+msgstr "Marathi"
+
+#: includes/admin/templates/directory/user-locations.php:137
+msgid "Marker type"
+msgstr "Type de marqueur"
+
+#: includes/core/class-fields.php:527
+msgid "Miles"
+msgstr "Miles"
+
+#: includes/core/class-fields.php:524
+msgid "Miles or kilometers"
+msgstr "Miles ou kilomètres"
+
+#: includes/core/um-user-locations-init.php:91
+msgid "Mongolian"
+msgstr "Mongol"
+
+#: includes/core/um-user-locations-init.php:92
+msgid "Nepali"
+msgstr "Népalais"
+
+#: includes/core/um-user-locations-init.php:93
+msgid "Norwegian"
+msgstr "Norvégien"
+
+#: includes/admin/templates/directory/user-locations.php:138
+msgid "Pick a marker's type"
+msgstr "Choisir le type de marqueur"
+
+#: includes/admin/templates/directory/user-locations.php:67
+#: includes/admin/templates/directory/user-locations.php:76
+msgid "Pick a starting position for the map"
+msgstr "Choisissez une position de départ pour la carte"
+
+#: includes/core/class-admin.php:113 includes/core/class-admin.php:120
+msgid "Pick a starting position for the map on the user profile page"
+msgstr ""
+"Choisissez une position de départ pour la carte sur la page de profil "
+"utilisateur"
+
+#: includes/core/class-admin.php:106
+msgid "Pick a starting zoom level for the map on the user profile page. Eg: 12"
+msgstr ""
+"Choisissez un niveau de zoom de départ pour la carte sur la page de profil "
+"utilisateur. Ex: 12"
+
+#: includes/admin/templates/directory/user-locations.php:58
+msgid "Pick a starting zoom level for the map. Eg: 12"
+msgstr "Choisissez un niveau de zoom de départ pour la carte. Ex: 12"
+
+#: includes/core/um-user-locations-init.php:94
+msgid "Polish"
+msgstr "Polonais"
+
+#: includes/core/um-user-locations-init.php:95
+msgid "Portuguese"
+msgstr "Portugais"
+
+#: includes/core/um-user-locations-init.php:96
+msgid "Portuguese (Brazil)"
+msgstr "Portugais (Brézil)"
+
+#: includes/core/um-user-locations-init.php:97
+msgid "Portuguese (Portugal)"
+msgstr "Portugais (Portugal)"
+
+#: includes/core/um-user-locations-init.php:98
+msgid "Punjabi"
+msgstr "Pendjabi"
+
+#: includes/admin/templates/role/locations.php:13
+msgid "Role icon"
+msgstr "Icône de rôle"
+
+#: includes/core/um-user-locations-init.php:99
+msgid "Romanian"
+msgstr "Roumain"
+
+#: includes/core/um-user-locations-init.php:100
+msgid "Russian"
+msgstr "Russe"
+
+#: includes/core/class-fields.php:523
+msgid "Select a distance unit"
+msgstr "Sélectionnez une unité de distance"
+
+#: includes/core/class-fields.php:497
+msgid "Select a location source"
+msgstr "Sélectionner un emplacement de départ"
+
+#: includes/core/um-user-locations-init.php:101
+msgid "Serbian"
+msgstr "Serbe"
+
+#: includes/admin/templates/directory/user-locations.php:34
+msgid "Show Map"
+msgstr "Afficher la carte"
+
+#: includes/admin/templates/directory/user-locations.php:26
+msgid "Show nearest users when search results are empty"
+msgstr ""
+"Afficher les utilisateurs les plus proches lorsque les résultats de "
+"recherche sont vides"
+
+#: includes/admin/templates/directory/user-locations.php:40
+msgid "Show this user location field at the map"
+msgstr "Afficher ce champ utilisateur sur la carte"
+
+#: includes/core/um-user-locations-init.php:102
+msgid "Sinhalese"
+msgstr "Cinghalais"
+
+#: includes/core/um-user-locations-init.php:103
+msgid "Slovak"
+msgstr "Slovaque"
+
+#: includes/core/um-user-locations-init.php:104
+msgid "Slovenian"
+msgstr "Slovène"
+
+#: includes/core/um-user-locations-init.php:105
+msgid "Spanish"
+msgstr "Espagnol"
+
+#: includes/core/um-user-locations-init.php:106
+msgid "Spanish (Latin America)"
+msgstr "Espagnol (Amérique Latine)"
+
+#: includes/admin/templates/directory/user-locations.php:66
+msgid "Starting address latitude"
+msgstr "Latitude de l’adresse de départ"
+
+#: includes/admin/templates/directory/user-locations.php:75
+msgid "Starting address longitude"
+msgstr "Longitude de l’adresse de départ"
+
+#: includes/admin/templates/directory/user-locations.php:57
+msgid "Starting map zoom level"
+msgstr "Démarrage du niveau de zoom de la carte"
+
+#: includes/core/um-user-locations-init.php:107
+msgid "Swahili"
+msgstr "Swahili"
+
+#: includes/core/um-user-locations-init.php:108
+msgid "Swedish"
+msgstr "Suédois"
+
+#: includes/core/um-user-locations-init.php:109
+msgid "Tamil"
+msgstr "Tamoul"
+
+#: includes/core/um-user-locations-init.php:110
+msgid "Telugu"
+msgstr "Telugu"
+
+#: includes/core/um-user-locations-init.php:111
+msgid "Thai"
+msgstr "Thaïlandais"
+
+#: um-user-locations.php:44 um-user-locations.php:60
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+"L’extension <strong>%s</strong> nécessite que l’extension Ultimate Member "
+"soit activé pour fonctionner correctement. Vous pouvez la télécharger <a "
+"href=\"https://wordpress.org/plugins/ultimate-member\">ici</a>"
+
+#: includes/core/class-fields.php:188
+msgid "This field is required"
+msgstr "Ce champ est requis"
+
+#: includes/core/um-user-locations-init.php:112
+msgid "Turkish"
+msgstr "Turc"
+
+#: includes/core/um-user-locations-init.php:113
+msgid "Ukrainian"
+msgstr "Ukrainien"
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#. Name of the plugin
+msgid "Ultimate Member - User Locations"
+msgstr "Ultimate Member - User Locations"
+
+#: includes/core/um-user-locations-init.php:114
+msgid "Urdu"
+msgstr "Urdu"
+
+#: includes/core/class-admin.php:86
+msgid "Use site's locale as language for Google Maps"
+msgstr ""
+"Utiliser les paramètres régionaux du site comme langue pour Google Maps"
+
+#: includes/core/class-fields.php:442
+msgid "User Location"
+msgstr "Emplacement de l’utilisateur"
+
+#: includes/core/class-admin.php:54 includes/core/class-admin.php:75
+#: includes/core/class-admin.php:173
+msgid "User Locations"
+msgstr "User Locations"
+
+#: includes/core/class-admin.php:66
+msgid "User Locations License Key"
+msgstr "User Locations License Key"
+
+#: includes/core/class-admin.php:112
+msgid "User Profile starting address latitude"
+msgstr "Profil utilisateur Latitude de l’adresse de départ"
+
+#: includes/core/class-admin.php:119
+msgid "User Profile starting address longitude"
+msgstr "Longitude de l’adresse de départ du profil utilisateur"
+
+#: includes/core/class-admin.php:105
+msgid "User Profile starting map zoom level"
+msgstr "Niveau de zoom de la carte de départ du profil utilisateur"
+
+#: includes/admin/templates/directory/user-locations.php:16
+msgid "User role marker"
+msgstr "Marqueur de rôle d’utilisateur"
+
+#. Description of the plugin
+msgid ""
+"Using the Google Maps API, display users on a map on the member directory "
+"page and allow users to add their location via their profile"
+msgstr ""
+"À l’aide de l’API Google Maps, affichez les utilisateurs sur une carte sur "
+"la page de l’annuaire des membres et permettez aux utilisateurs d’ajouter "
+"leur position via leur profil"
+
+#: includes/core/um-user-locations-init.php:115
+msgid "Uzbek"
+msgstr "Ouzbek"
+
+#: includes/core/um-user-locations-init.php:116
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: templates/infowindow.php:31 templates/map-shortcode.php:15
+msgid "View profile"
+msgstr "Voir le profil"
+
+#: includes/core/class-shortcodes.php:92
+msgid "Wrong data"
+msgstr "Données incorrectes"
+
+#: includes/core/class-fields.php:477
+msgid "You must provide a distance unit"
+msgstr "Vous devez fournir une unité de distance"
+
+#: includes/core/class-fields.php:473
+msgid "You must provide a location source"
+msgstr "Vous devez fournir un emplacement de départ"
+
+#: includes/core/class-fields.php:449 includes/core/class-fields.php:469
+msgid "You must provide a title"
+msgstr "Vous devez choisir un nom d'utilisateur"
+
+#: includes/core/um-user-locations-init.php:117
+msgid "Zulu"
+msgstr "Zoulou"
